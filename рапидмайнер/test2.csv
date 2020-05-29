@@ -1,0 +1,2 @@
+dur;proto;service;state;spkts;dpkts;sbytes;dbytes;rate;sttl;dttl;sload;dload;sloss;dloss;sinpkt;dinpkt;sjit;djit;swin;stcpb;dtcpb;dwin;tcprtt;synack;ackdat;smean;dmean;trans_depth;response_body_len;ct_srv_src;ct_state_ttl;ct_dst_ltm;ct_src_dport_ltm;ct_dst_sport_ltm;ct_dst_src_ltm;is_ftp_login;ct_ftp_cmd;ct_flw_http_mthd;ct_src_ltm;ct_srv_dst;is_sm_ips_ports
+0.035742;tcp;-;FIN;122;126;7814;14682;6910.637395;31;29;1734653.875;3260254.0;30;32;0.292397;0.281392;18.612552;16.444797;255;1.845252797E9;3.995882499E9;255;7.41E-4;5.63E-4;1.78E-4;64;117;0;0;11;0;1;1;1;1;0;0;0;2;6;0
