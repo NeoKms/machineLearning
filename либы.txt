@@ -1,1 +1,1 @@
-pip3 install numpy,jupyter,sklearn,imutils,opencv-python, opencv-python,pandas,graphviz
+pip3 install numpy,jupyter,sklearn,imutils,opencv-python, opencv-python,pandas,graphviz,gym
